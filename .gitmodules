@@ -1,3 +1,6 @@
 [submodule "PhoneGapLibTest/www"]
 	path = PhoneGapLibTest/www
 	url = git://github.com/phonegap/mobile-spec.git
+[submodule "PhoneGapLib/phonegap-js"]
+	path = PhoneGapLib/phonegap-js
+	url = git://github.com/davejohnson/phonegap-js.git
